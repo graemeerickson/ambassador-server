@@ -1,6 +1,9 @@
 {
   "name": "ambassador",
-  "version": "9.3.0",
+  "version": "0.0.1",
+  "engines": {
+    "node": "9.8.0"
+  },
   "description": "",
   "main": "app.js",
   "scripts": {
