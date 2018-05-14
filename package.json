@@ -1,6 +1,6 @@
 {
   "name": "ambassador",
-  "version": "1.0.0",
+  "version": "9.3.0",
   "description": "",
   "main": "app.js",
   "scripts": {
